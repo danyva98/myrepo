@@ -1,0 +1,17 @@
+---
+title: "Test git"
+author: "Daniela Villarreal"
+date: "8/9/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Abstract
+
+In this investigation we compared the market value and the theoretical value of two firms. This comparison proceeded to an analysis to recognize if the value of each firm is undervalued or overvalued. Furthermore, we analyzed the analogy between an American put option and car insurance. We described their similarities and their differences. Lastly, we compared and evaluated two portfolios with different composition and weights to evaluate and understand the VaR metric in order to determine which contained the lowest amount of risk.
+```{r}
+x=5+5
+```
